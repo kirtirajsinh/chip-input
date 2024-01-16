@@ -1,0 +1,45 @@
+[
+  {
+    "name": "Ravi",
+    "email": "ravi@gmail",
+    "city": "New York",
+    "image": "./src/assets/avatar1.png"
+  },
+  {
+    "name": "XI CHin",
+    "email": "xi@alibaba.com",
+    "image": "./src/assets/avatar2.png"
+  },
+  {
+    "name": "viraj",
+    "email": "viraj@gmail.com",
+    "image": "./src/assets/avatar3.png"
+  },
+  {
+    "name": "Agastya jain",
+    "email": "agastya@gmail.com",
+    "image": "./src/assets/avatar4.png"
+  },
+  {
+    "name": "Thala",
+    "email": "thala@gmail.com",
+
+    "image": "./src/assets/avatar5.png"
+  },
+  {
+    "name": "Rahul",
+    "email": "rahul@gmail.com",
+
+    "image": "./src/assets/avatar6.png"
+  },
+  {
+    "name": "deepak",
+    "email": "deepak@gmail.com",
+    "image": "./src/assets/avatar7.png"
+  },
+  {
+    "name": "VIRAT",
+    "email": "virat@gmail.com",
+    "image": "./src/assets/avatar4.png"
+  }
+]
