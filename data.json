@@ -3,43 +3,43 @@
     "name": "Ravi",
     "email": "ravi@gmail",
     "city": "New York",
-    "image": "./src/assets/avatar1.png"
+    "image": "https://utfs.io/f/3cce5823-6fde-447d-a366-3014b9a52837-ai40lk.png"
   },
   {
     "name": "XI CHin",
     "email": "xi@alibaba.com",
-    "image": "./src/assets/avatar2.png"
+    "image": "https://utfs.io/f/ba7f6763-687e-4728-b8b3-2b05527b0054-ai40lj.png"
   },
   {
     "name": "viraj",
     "email": "viraj@gmail.com",
-    "image": "./src/assets/avatar3.png"
+    "image": "https://utfs.io/f/77d6a63e-eedf-49ba-a3b4-341f9c6348ef-ai40li.png"
   },
   {
-    "name": "Agastya jain",
-    "email": "agastya@gmail.com",
-    "image": "./src/assets/avatar4.png"
+    "name": "Rani Ali",
+    "email": "rani@gmail.com",
+    "image": "https://utfs.io/f/4d4e896f-13c8-47b1-9e0c-1429edbe02bd-ai40lh.png"
   },
   {
     "name": "Thala",
     "email": "thala@gmail.com",
 
-    "image": "./src/assets/avatar5.png"
+    "image": "https://utfs.io/f/347d5077-b82b-4057-8b27-04e7ecfbf0eb-ai40lg.png"
   },
   {
     "name": "Rahul",
     "email": "rahul@gmail.com",
 
-    "image": "./src/assets/avatar6.png"
+    "image": "https://utfs.io/f/5ccfa19a-82c1-441d-aa59-9eb167587040-ai40lf.png"
   },
   {
     "name": "deepak",
     "email": "deepak@gmail.com",
-    "image": "./src/assets/avatar7.png"
+    "image": "https://utfs.io/f/92770981-9372-415b-bc91-fb7e76615c91-ai40le.png"
   },
   {
     "name": "VIRAT",
     "email": "virat@gmail.com",
-    "image": "./src/assets/avatar4.png"
+    "image": "https://utfs.io/f/ba7f6763-687e-4728-b8b3-2b05527b0054-ai40lj.png"
   }
 ]
